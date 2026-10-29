@@ -1,3 +1,7 @@
+> Maintained fork of [kukuxx/HA-LineBot-MCP](https://github.com/kukuxx/HA-LineBot-MCP), under Apache-2.0.
+> Version 1.0.2 targets Home Assistant Core 2026.10.3 and aligns MCP/AnyIO dependencies with its built-in MCP Server. Live device validation is still required.
+> HACS custom repository: `MCChang-cmyk/HA-LineBot-MCP` (Integration).
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]

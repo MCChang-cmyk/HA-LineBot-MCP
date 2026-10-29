@@ -1,3 +1,7 @@
+> 本專案是 [kukuxx/HA-LineBot-MCP](https://github.com/kukuxx/HA-LineBot-MCP) 的維護分支，保留 Apache-2.0 授權。
+> 1.0.2 以 Home Assistant Core 2026.10.3 為相容目標，對齊官方 MCP Server 的 MCP／AnyIO 版本。仍需實機驗證。
+> HACS 自訂儲存庫：`MCChang-cmyk/HA-LineBot-MCP`，類型選 Integration。
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]

@@ -1,0 +1,5 @@
+mcp==1.28.1
+anyio==4.14.2
+aiohttp_sse==2.2.0
+pytest>=8,<10
+pytest-asyncio>=0.24,<2
